@@ -1,0 +1,19 @@
+{
+  "name": "pre-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "tsc && out/merge.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.4",
+    "@types/jest": "^29.5.0",
+    "@types/node": "^18.15.11"
+  }
+}
